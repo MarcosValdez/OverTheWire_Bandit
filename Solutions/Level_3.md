@@ -20,4 +20,4 @@ find . -name .hidden | xargs cat
 ```
 *xargs (e**x**tended **arg**ument**s**), some commands like grep can accept input as parameters, but some commands accepts arguments, this is place where xargs came into picture. Xargs reads items from the standard input.*
 
-Password for level 4: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+Password for level 4: **2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe**
