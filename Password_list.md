@@ -8,3 +8,4 @@ Password for level 2: **rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi**
 
 Password for level 3: **aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG**
 
+Password for level 4: **2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe**
