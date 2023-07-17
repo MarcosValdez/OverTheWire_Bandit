@@ -13,3 +13,6 @@ Password for level 4: **2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe**v
 Password for level 5: **lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR**
 
 Password for level 6: **P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU**
+
+Password for level 7: **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
+

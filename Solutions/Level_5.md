@@ -11,7 +11,7 @@ ssh bandit5@bandit.labs.overthewire.org -p 2220
 
 Password: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
-### Solution 1
+### Solution 
 ```bash
 find . -type f -readable -size 1033c | xargs cat
 ```
